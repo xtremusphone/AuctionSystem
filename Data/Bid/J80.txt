@@ -1,0 +1,10 @@
+UserID	Bids
+EATUUP	30.0
+AMEER	30.0
+KAMAL	30.0
+AMEER	40.0
+AMEER	40.0
+
+Winner : AMEER
+Total Winning Bid : 40.0
+Item : rope

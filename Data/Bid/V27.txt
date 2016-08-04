@@ -1,0 +1,8 @@
+UserID	Bids
+ameer	56
+eatuup	77
+kamal	89
+
+Winner : kamal
+Price Sold(second highest bid) : 77
+Item : Jam

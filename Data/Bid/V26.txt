@@ -1,0 +1,7 @@
+UserID	Bids
+ameer	2340
+kamal	9875
+
+Winner : kamal
+Price Sold(second highest bid) : 2340
+Item : ship

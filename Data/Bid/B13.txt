@@ -1,0 +1,8 @@
+UserID	Bids
+ameer	16
+kamal	25
+eatuup	56
+
+Winner : eatuup
+Total winning bid : 56
+Item : Banana
